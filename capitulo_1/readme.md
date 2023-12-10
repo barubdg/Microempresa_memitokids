@@ -26,39 +26,39 @@ Para abordar la gestión y control de reportes para la Microempresa de Eventos I
 ●	**Capacitación y Soporte:** Proporcionar capacitación a los administradores para utilizar eficazmente la aplicación y ofrece soporte técnico en caso de problemas.
 
 #### 3. Alcance de la Solución Tecnológica (Gantt):
-<img align="center" src="img_tablacontenido/Alcance de la solución tecnologica.png" alt="Imagen" height="500"/>
+<img align="center" src="/img_tablacontenido/Alcance de la solución tecnologica.png" alt="Imagen" height="500"/>
 
 ### Diagrama de procesos y Organigrama
 #### 1. Diagrama de procesos (BPMN):
 #### Proceso de reserva:
-<img align="center" src="img_tablacontenido/bpmn/Proceso de reserva.jpg" alt="Imagen" height="500"/>
+<img align="center" src="/img_tablacontenido/bpmn/Proceso de reserva.jpg" alt="Imagen" height="500"/>
 
 #### Proceso de disponibilidad de empleado:
-<img align="center" src="img_tablacontenido/bpmn/Proceso de disponibilidad de empleado.jpg" alt="Imagen" height="500"/>
+<img align="center" src="/img_tablacontenido/bpmn/Proceso de disponibilidad de empleado.jpg" alt="Imagen" height="500"/>
 
 #### Proceso de convocatoria:
-<img align="center" src="img_tablacontenido/bpmn/Proceso de convocatoria.jpg" alt="Imagen" height="500"/>
+<img align="center" src="/img_tablacontenido/bpmn/Proceso de convocatoria.jpg" alt="Imagen" height="500"/>
 
 #### Proceso de Movilidad:
-<img align="center" src="img_tablacontenido/bpmn/Proceso de Movilidad.jpg" alt="Imagen" height="500"/>
+<img align="center" src="/img_tablacontenido/bpmn/Proceso de Movilidad.jpg" alt="Imagen" height="500"/>
 
 #### Proceso de preparación de equipos:
-<img align="center" src="img_tablacontenido/bpmn/Proceso de preparación de equipos.jpg" alt="Imagen" height="500"/>
+<img align="center" src="/img_tablacontenido/bpmn/Proceso de preparación de equipos.jpg" alt="Imagen" height="500"/>
 
 #### Proceso previo al evento:
-<img align="center" src="img_tablacontenido/bpmn/Proceso previo al evento.jpg" alt="Imagen" height="500"/>
+<img align="center" src="/img_tablacontenido/bpmn/Proceso previo al evento.jpg" alt="Imagen" height="500"/>
 
 #### Proceso durante el evento:
-<img align="center" src="img_tablacontenido/bpmn/Proceso durante el evento.jpg" alt="Imagen" height="500"/>
+<img align="center" src="/img_tablacontenido/bpmn/Proceso durante el evento.jpg" alt="Imagen" height="500"/>
 
 #### Proceso de cobro-pago:
-<img align="center" src="img_tablacontenido/bpmn/Proceso de cobro-pago.jpg" alt="Imagen" height="500"/>
+<img align="center" src="/img_tablacontenido/bpmn/Proceso de cobro-pago.jpg" alt="Imagen" height="500"/>
 
 #### Proceso después del evento:
-<img align="center" src="img_tablacontenido/bpmn/Proceso después del evento.jpg" alt="Imagen" height="500"/>
+<img align="center" src="/img_tablacontenido/bpmn/Proceso después del evento.jpg" alt="Imagen" height="500"/>
 
 #### 2. Organigrama:
-<img align="center" src="img_tablacontenido/organigrama.png" alt="Imagen" />
+<img align="center" src="/img_tablacontenido/organigrama.png" alt="Imagen" />
 
 ### Misión, Visión y Objetivos Estratégicos
 #### 1. Misión:
