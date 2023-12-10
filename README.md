@@ -1,4 +1,3 @@
-
 # Desarrollo de un sistema para la gestión y control de reportes para la Microempresa de Eventos Infantiles “Memito Kids”
 ---
 # Tabla de Contenido
@@ -62,8 +61,10 @@ Breve resumen del estado del arte y marco teórico.
 - Responsable de la documentación del proyecto, garantizando que esté completa y accesible para futuras referencias.
 
 ## Descripción de la empresa
+Fundada el 17 de diciembre de 2022, nuestra empresa se especializa en la realización de eventos infantiles. Destacamos entre la competencia gracias a nuestra amplia gama de paquetes y un servicio completo que garantiza momentos inolvidables para los más pequeños.
 
 ## Descripción del proyecto
+La solución elegida es el desarrollo de un software de escritorio personalizado para la empresa de Eventos Infantiles. Este software integrará todas las funciones necesarias para la gestión de eventos, incluyendo la facturación, contratación, coordinación de trabajadores y generación de informes. Además, se implementarán medidas de seguridad sólidas para proteger la información confidencial. La inversión en esta solución tecnológica permitirá a la empresa mejorar la eficiencia operativa, reducir los errores y crear una base sólida para el crecimiento futuro.
 
 ## Capítulo 1: Descripción de la Empresa
 
