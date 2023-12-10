@@ -126,8 +126,16 @@ Para abordar la gestión y control de reportes para la Microempresa de Eventos I
 #### 2. Organigrama:
 <img align="center" src="img_tablacontenido/organigrama.png" alt="Imagen" />
 
-
-
 ### Misión, Visión y Objetivos Estratégicos
-Contenido de la sección "Misión, Visión y Objetivos Estratégicos".
+#### 1. Misión:
+La misión de la empresa de Eventos Infantiles es proporcionar a nuestros clientes eventos infantiles memorables y sin complicaciones, brindando servicios de alta calidad y personalizados. Buscamos simplificar y mejorar la experiencia de nuestros clientes a través de la planificación y ejecución eficiente de eventos.
+
+#### 2. Visión:
+Nuestra visión es convertirnos en la empresa líder en la organización de eventos infantiles, reconocida por la excelencia en el servicio al cliente y la eficiencia en la gestión. Queremos ser pioneros en la adopción de tecnologías innovadoras que simplifiquen y optimicen nuestros procesos internos, garantizando la satisfacción de nuestros clientes y el crecimiento sostenible de nuestro negocio.
+
+#### 3. Objetivos Estratégicos:
+a.	Implementar un sistema de organización de eventos eficiente para mejorar la coordinación interna y la comunicación con los clientes.
+b.	Garantizar la seguridad y privacidad de los datos personales de nuestros clientes y empleados.
+c.	Facilitar la generación de reportes precisos para una toma de decisiones informada.
+d.	Establecer una base sólida para el crecimiento y la escalabilidad del negocio.
 
