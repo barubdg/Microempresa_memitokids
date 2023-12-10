@@ -2,13 +2,6 @@
 ---
 # Tabla de Contenido
 ---
-## Autores
-- [Autores](#autores-del-proyecto)
-
-## Aspectos Generales
-- [Descripción de la empresa](#descripción-de-la-empresa)
-- [Descripción del proyecto](#descripción-del-proyecto)
-
 ## [Capítulo 1](capitulo_1/readme.md)
 - Problema, Objetivos y Alcance
 - Diagrama de procesos y Organigrama
