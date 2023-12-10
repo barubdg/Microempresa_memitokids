@@ -1,5 +1,6 @@
 # Desarrollo de un sistema para la gestión y control de reportes para la Microempresa de Eventos Infantiles “Memito Kids”
 ---
+
 ## Autores del Proyecto
 
 **Baruch Benjamin Dámazo Gálvez / Desarrollador UI/UX y Programador Java:**
@@ -27,9 +28,11 @@ Fundada el 17 de diciembre de 2022, nuestra empresa se especializa en la realiza
 
 ## Descripción del proyecto
 La solución elegida es el desarrollo de un software de escritorio personalizado para la empresa de Eventos Infantiles. Este software integrará todas las funciones necesarias para la gestión de eventos, incluyendo la facturación, contratación, coordinación de trabajadores y generación de informes. Además, se implementarán medidas de seguridad sólidas para proteger la información confidencial. La inversión en esta solución tecnológica permitirá a la empresa mejorar la eficiencia operativa, reducir los errores y crear una base sólida para el crecimiento futuro.
+
 ---
 # Tabla de Contenido
 ---
+
 ## [Capítulo 1](capitulo_1/readme.md)
 - Problema, Objetivos y Alcance
 - Diagrama de procesos y Organigrama
