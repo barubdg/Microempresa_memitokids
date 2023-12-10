@@ -15,7 +15,8 @@
 - [Misión, Visión y Objetivos Estratégicos](#misi%C3%B3n-visi%C3%B3n-y-objetivos-estrat%C3%A9gicos)
 
 ## Capítulo 2: Estado del Arte y Marco Teórico
-Breve resumen del estado del arte y marco teórico.
+- [Resumen de Estado del Arte](#resumen-de-estado-del-arte)
+- [Resumen de Marco Teorico](#resumen-de-marco-teorico)
 
 ## Capítulo 3: Alcance
 - [Requerimientos funcionales y no funcionales](#requerimientos-funcionales-y-no-funcionales)
@@ -141,5 +142,11 @@ b.	Garantizar la seguridad y privacidad de los datos personales de nuestros clie
 c.	Facilitar la generación de reportes precisos para una toma de decisiones informada.
 
 d.	Establecer una base sólida para el crecimiento y la escalabilidad del negocio.
+
+## Capítulo 2: Estado del Arte y Marco Teórico
+
+### Resumen de Estado del Arte
+
+### Resumen de Marco Teorico
 
 
