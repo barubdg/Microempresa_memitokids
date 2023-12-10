@@ -65,15 +65,7 @@ Fundada el 17 de diciembre de 2022, nuestra empresa se especializa en la realiza
 ## Descripción del proyecto
 La solución elegida es el desarrollo de un software de escritorio personalizado para la empresa de Eventos Infantiles. Este software integrará todas las funciones necesarias para la gestión de eventos, incluyendo la facturación, contratación, coordinación de trabajadores y generación de informes. Además, se implementarán medidas de seguridad sólidas para proteger la información confidencial. La inversión en esta solución tecnológica permitirá a la empresa mejorar la eficiencia operativa, reducir los errores y crear una base sólida para el crecimiento futuro.
 
-## Capítulo 2: Estado del Arte y Marco Teórico
 
-### Resumen de Estado del Arte
-En el artículo "Implementación de un sistema web y móvil para gestión de eventos musicales que emplea herramientas de data analytics," se presenta un proyecto de fin de carrera centrado en proporcionar herramientas integrales para la gestión de eventos musicales. Se desarrollaron aplicaciones móviles para facilitar la venta de entradas y la gestión de la asistencia, destacando la implementación de un algoritmo de aprendizaje automático que analizaba datos históricos para identificar patrones y tendencias útiles en la planificación y ejecución de futuros eventos.
-
-Por otro lado, en el artículo "Gestión de la empresa Software Factory, mejoras en la operatividad, automatización del proceso de control de recursos y administración del conocimiento en el período 2012," se informa sobre las mejoras realizadas en la empresa Software Factory durante la segunda mitad del año pasado. Se destaca que estas mejoras, junto con prácticas exitosas de gestiones anteriores, sirven como base para la gestión actual. Se identifican cuatro pilares fundamentales para la gestión en el presente año: gestión de proyectos, administración de colaboradores, gestión del negocio y gestión de reutilización de recursos. Se heredan prácticas exitosas de ciclos anteriores, al tiempo que se planifican cambios para mejorar el rendimiento general de la empresa.
-
-### Resumen de Marco Teorico
-Este sistema busca transformar la forma en que se organizan los eventos infantiles, utilizando tecnología y herramientas de programación para mejorar la eficiencia y la efectividad de las operaciones. Al implementar un sistema en Java y una base de datos, se espera que se optimice la asignación de personal, la gestión de contratos y la administración de las cuentas de dinero, brindando así una experiencia más fluida y satisfactoria tanto para los organizadores como para los clientes.
 
 ## Capítulo 3: Alcance
 
