@@ -9,29 +9,29 @@
 - [Descripción de la empresa](#descripción-de-la-empresa)
 - [Descripción del proyecto](#descripción-del-proyecto)
 
-## Capítulo 1: Descripción de la Empresa
-- [Problema, Objetivos y Alcance](#problema-objetivos-y-alcance)
-- [Diagrama de procesos y Organigrama](#diagrama-de-procesos-y-organigrama)
-- [Misión, Visión y Objetivos Estratégicos](#misi%C3%B3n-visi%C3%B3n-y-objetivos-estrat%C3%A9gicos)
+## [Capítulo 1](capitulo_1/readme.md)
+- Problema, Objetivos y Alcance
+- Diagrama de procesos y Organigrama
+- Misión, Visión y Objetivos Estratégicos
 
-## Capítulo 2: Estado del Arte y Marco Teórico
-- [Resumen de Estado del Arte](#resumen-de-estado-del-arte)
-- [Resumen de Marco Teorico](#resumen-de-marco-teorico)
+## Capítulo 2
+- Resumen de Estado del Arte
+- Resumen de Marco Teorico
 
-## Capítulo 3: Alcance
-- [Requerimientos funcionales y no funcionales](#requerimientos-funcionales-y-no-funcionales)
-- [Restricciones](#restricciones)
-- [Diagrama de clases](#diagrama-de-clases)
-- [Prototipos o interfaces](#prototipos-o-interfaces)
+## Capítulo 3
+- Requerimientos funcionales y no funcionales
+- Restricciones
+- Diagrama de clases
+- Prototipos o interfaces
 
-## Capítulo 4: Diseño de la Aplicación
-- [Funcionalidades implementadas](#funcionalidades-implementadas)
-- [Estructura de paquetes y Clases utilizadas](#estructura-de-paquetes-y-clases-utilizadas)
-- [Código fuente y Herramientas digitales](#c%C3%B3digo-fuente-y-herramientas-digitales)
-- [Comparativo entre países, Contrato y Fichas formularios](#comparativo-entre-pa%C3%ADses-contrato-y-fichas-formularios)
+## Capítulo 4
+- Funcionalidades implementadas
+- Estructura de paquetes y Clases utilizadas
+- Código fuente y Herramientas digitales
+- Comparativo entre países, Contrato y Fichas formularios
 
-## Capítulo 5: Conclusiones y Recomendaciones
-- [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)
+## Capítulo 5
+- Conclusiones y Recomendaciones
 
 ## Bibliografía y Anexos
 - Lista de fuentes utilizadas en la investigación.
