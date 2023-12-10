@@ -2,12 +2,13 @@
 # Desarrollo de un sistema para la gestión y control de reportes para la Microempresa de Eventos Infantiles “Memito Kids”
 ---
 # Tabla de Contenido
-
+---
+## Autores
 - [Autores](#autores)
-## Descripción del Proyecto
 
-### Aspectos Generales
-Descripción concisa de la empresa y del proyecto.
+## Aspectos Generales
+- [Descripción de la empresa](#descripción-de-la-empresa)
+- [Descripción del proyecto](#descripción-del-proyecto)
 
 ## Capítulo 1: Descripción de la Empresa
 - [Problema, Objetivos y Alcance](#problema-objetivos-y-alcance)
@@ -38,7 +39,7 @@ Breve resumen del estado del arte y marco teórico.
 
 
 
-### Autores
+## Autores
 
 **Baruch Benjamin Dámazo Gálvez / Desarrollador UI/UX y Programador Java:**
 - Diseño y desarrollo de las interfaces de usuario (UI/UX) del software.
@@ -59,6 +60,10 @@ Breve resumen del estado del arte y marco teórico.
 - Organización y gestión general del proyecto utilizando la herramienta Asana.
 - Coordinación entre los miembros del equipo para asegurar la ejecución eficiente de las tareas.
 - Responsable de la documentación del proyecto, garantizando que esté completa y accesible para futuras referencias.
+
+## Descripción de la empresa
+
+## Descripción del proyecto
 
 ## Capítulo 1: Descripción de la Empresa
 
