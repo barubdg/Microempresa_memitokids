@@ -91,12 +91,13 @@ Para abordar la gestión y control de reportes para la Microempresa de Eventos I
 
 ●	**Capacitación y Soporte:** Proporcionar capacitación a los administradores para utilizar eficazmente la aplicación y ofrece soporte técnico en caso de problemas.
 
-#### 3. Alcance de la Solución Tecnológica:
-
-
+#### 3. Alcance de la Solución Tecnológica (Gantt):
+<img align="center" src="img_tablacontenido/Alcance de la solución tecnologica.png" alt="Imagen" height="500"/>
 
 ### Diagrama de procesos y Organigrama
 Contenido de la sección "Diagrama de procesos y Organigrama".
+
+
 
 ### Misión, Visión y Objetivos Estratégicos
 Contenido de la sección "Misión, Visión y Objetivos Estratégicos".
