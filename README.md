@@ -72,25 +72,23 @@ La empresa de Eventos Infantiles enfrenta un gran desafío crítico de un sistem
 #### 2. Posibles Objetivos de Solución:
 Para abordar la gestión y control de reportes para la Microempresa de Eventos Infantiles “Memito Kids”, existen algunas soluciones generales que podrían ser útiles:
 
-●	Base de Datos: Utiliza una base de datos para almacenar información relevante, como ventas, detalles del personal y registros de clientes. Puedes utilizar tecnologías como MySQL, PostgreSQL o SQLite con Java para gestionar los datos de manera eficiente.
+●	Base de Datos: Utilizar una base de datos para almacenar información relevante, como Empleados, detalles del evento y registros de clientes. Se Puede utilizar tecnologías como MySQL, PostgreSQL o SQLite con Java para gestionar los datos de manera eficiente.
 
-●	Interfaz Gráfica de Usuario (GUI): Desarrolla una interfaz de usuario amigable para que los empleados puedan ingresar datos de ventas y gestionar el personal. Puedes utilizar bibliotecas como Swing o JavaFX para crear interfaces atractivas y funcionales.
+●	Interfaz Gráfica de Usuario (GUI): Desarrollar una interfaz de usuario amigable para que los administradores puedan ingresar datos de ventas y gestionar el personal. Se Puede utilizar bibliotecas como Swing o JavaFX para crear interfaces atractivas y funcionales.
 
-●	Seguimiento de Ventas: Implementa un sistema de seguimiento de ventas que registra información como fecha, producto vendido, cantidad, precio, etc. Esto te permitirá llevar un control detallado de las transacciones.
+●	Seguimiento de Ventas: Implementar un sistema de seguimiento de ventas que registra información como fecha, producto vendido, cantidad, precio, etc. Esto permitirá llevar un control detallado de las transacciones.
 
-●	Gestión de Personal: Crea una sección para administrar el personal, donde puedas agregar, editar y eliminar empleados. Registra datos como nombre, contacto, fecha de inicio, etc.
+●	Gestión de Personal: Crear una sección para administrar el personal, donde se puede agregar, editar y eliminar empleados. Registra datos como nombre, contacto, fecha de inicio, etc.
 
-●	Registro de Clientes: Aunque mencionas que la empresa no tiene un registro de clientes antiguos, sería beneficioso comenzar a mantener un registro. Puedes permitir que los clientes se registren en la plataforma y asocien sus compras anteriores.
+●	Registro de Clientes: Aunque la empresa no tiene un registro de clientes antiguos, sería beneficioso comenzar a mantener un registro. Se puede permitir a los clientes que se registren en la plataforma y asocien sus compras anteriores.
 
-●	Reportes y Análisis: Agrega capacidades de generación de informes para analizar las ventas, los tiempos de trabajo y otros datos relevantes. Esto ayudará a la toma de decisiones.
+●	Reportes y Análisis: Agregar capacidades de generación de informes para analizar las ventas, los tiempos de trabajo y otros datos relevantes. Esto ayudará a la toma de decisiones.
 
-●	Seguridad: Asegúrate de proteger los datos confidenciales, como la información del personal y los detalles de los clientes, mediante el uso de medidas de seguridad apropiadas.
+●	Seguridad: Proteger los datos confidenciales, como la información del personal y los detalles de los clientes, mediante el uso de medidas de seguridad apropiadas.
 
-●	Mantenimiento y Actualizaciones: Planifica un proceso de mantenimiento regular y actualizaciones para mejorar la funcionalidad y corregir errores.
+●	Mantenimiento y Actualizaciones: Planificar un proceso de mantenimiento regular y actualizaciones para mejorar la funcionalidad y corregir errores.
 
-●	Capacitación y Soporte: Proporciona capacitación a los empleados para utilizar eficazmente la aplicación y ofrece soporte técnico en caso de problemas.
-
-
+●	Capacitación y Soporte: Proporcionar capacitación a los administradores para utilizar eficazmente la aplicación y ofrece soporte técnico en caso de problemas.
 
 ### Diagrama de procesos y Organigrama
 Contenido de la sección "Diagrama de procesos y Organigrama".
