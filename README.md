@@ -2,8 +2,8 @@
 ---
 # Tabla de Contenido
 ---
-## Autor/es
-- [Autores](#autores)
+## Autores
+- [Autores](#autores-del-proyecto)
 
 ## Aspectos Generales
 - [Descripción de la empresa](#descripción-de-la-empresa)
@@ -36,7 +36,7 @@ Breve resumen del estado del arte y marco teórico.
 - Lista de fuentes utilizadas en la investigación.
 - Enlaces a documentos adicionales o anexos.
 
-## Autores
+## Autores del Proyecto
 
 **Baruch Benjamin Dámazo Gálvez / Desarrollador UI/UX y Programador Java:**
 - Diseño y desarrollo de las interfaces de usuario (UI/UX) del software.
