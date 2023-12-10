@@ -153,4 +153,9 @@ Por otro lado, en el artículo "Gestión de la empresa Software Factory, mejoras
 ### Resumen de Marco Teorico
 Este sistema busca transformar la forma en que se organizan los eventos infantiles, utilizando tecnología y herramientas de programación para mejorar la eficiencia y la efectividad de las operaciones. Al implementar un sistema en Java y una base de datos, se espera que se optimice la asignación de personal, la gestión de contratos y la administración de las cuentas de dinero, brindando así una experiencia más fluida y satisfactoria tanto para los organizadores como para los clientes.
 
+## Capítulo 3: Alcance
+
+### Requerimientos funcionales y no funcionales
+
+#### 1. Requerimientos funcionales:
 
