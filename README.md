@@ -1,35 +1,5 @@
 # Desarrollo de un sistema para la gestión y control de reportes para la Microempresa de Eventos Infantiles “Memito Kids”
 ---
-# Tabla de Contenido
----
-## [Capítulo 1](capitulo_1/readme.md)
-- Problema, Objetivos y Alcance
-- Diagrama de procesos y Organigrama
-- Misión, Visión y Objetivos Estratégicos
-
-## Capítulo 2
-- Resumen de Estado del Arte
-- Resumen de Marco Teorico
-
-## Capítulo 3
-- Requerimientos funcionales y no funcionales
-- Restricciones
-- Diagrama de clases
-- Prototipos o interfaces
-
-## Capítulo 4
-- Funcionalidades implementadas
-- Estructura de paquetes y Clases utilizadas
-- Código fuente y Herramientas digitales
-- Comparativo entre países, Contrato y Fichas formularios
-
-## Capítulo 5
-- Conclusiones y Recomendaciones
-
-## Bibliografía y Anexos
-- Lista de fuentes utilizadas en la investigación.
-- Enlaces a documentos adicionales o anexos.
-
 ## Autores del Proyecto
 
 **Baruch Benjamin Dámazo Gálvez / Desarrollador UI/UX y Programador Java:**
@@ -57,3 +27,33 @@ Fundada el 17 de diciembre de 2022, nuestra empresa se especializa en la realiza
 
 ## Descripción del proyecto
 La solución elegida es el desarrollo de un software de escritorio personalizado para la empresa de Eventos Infantiles. Este software integrará todas las funciones necesarias para la gestión de eventos, incluyendo la facturación, contratación, coordinación de trabajadores y generación de informes. Además, se implementarán medidas de seguridad sólidas para proteger la información confidencial. La inversión en esta solución tecnológica permitirá a la empresa mejorar la eficiencia operativa, reducir los errores y crear una base sólida para el crecimiento futuro.
+---
+# Tabla de Contenido
+---
+## [Capítulo 1](capitulo_1/readme.md)
+- Problema, Objetivos y Alcance
+- Diagrama de procesos y Organigrama
+- Misión, Visión y Objetivos Estratégicos
+
+## [Capítulo 2](capitulo_2/readme.md)
+- Resumen de Estado del Arte
+- Resumen de Marco Teorico
+
+## [Capítulo 3](capitulo_3/readme.md)
+- Requerimientos funcionales y no funcionales
+- Restricciones
+- Diagrama de clases
+- Prototipos o interfaces
+
+## [Capítulo 4](capitulo_4/readme.md)
+- Funcionalidades implementadas
+- Estructura de paquetes y Clases utilizadas
+- Código fuente y Herramientas digitales
+- Comparativo entre países, Contrato y Fichas formularios
+
+## [Capítulo 5](capitulo_5/readme.md)
+- Conclusiones y Recomendaciones
+
+## [Bibliografía y Anexos]
+- Lista de fuentes utilizadas en la investigación.
+- Enlaces a documentos adicionales o anexos.
