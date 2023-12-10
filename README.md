@@ -64,17 +64,3 @@ Fundada el 17 de diciembre de 2022, nuestra empresa se especializa en la realiza
 
 ## Descripción del proyecto
 La solución elegida es el desarrollo de un software de escritorio personalizado para la empresa de Eventos Infantiles. Este software integrará todas las funciones necesarias para la gestión de eventos, incluyendo la facturación, contratación, coordinación de trabajadores y generación de informes. Además, se implementarán medidas de seguridad sólidas para proteger la información confidencial. La inversión en esta solución tecnológica permitirá a la empresa mejorar la eficiencia operativa, reducir los errores y crear una base sólida para el crecimiento futuro.
-
-
-
-## Capítulo 3: Alcance
-
-### Requerimientos funcionales y no funcionales
-
-#### 1. Requerimientos funcionales:
-<img align="center" src="img_tablacontenido/requerimientos/RF-PARTE1.jpg" alt="Imagen"/>
-
-<img align="center" src="img_tablacontenido/requerimientos/RF-PARTE2.jpg" alt="Imagen"/>
-
-<img align="center" src="img_tablacontenido/requerimientos/RF-PARTE3.jpg" alt="Imagen"/>
-
