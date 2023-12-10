@@ -96,6 +96,8 @@ Para abordar la gestión y control de reportes para la Microempresa de Eventos I
 
 ### Diagrama de procesos y Organigrama
 #### 1. Diagrama de procesos (BPMN):
+<img align="center" src="img_tablacontenido/bpmn/Proceso de reserva.jpg" alt="Imagen" height="500"/>
+
 ##### Proceso de reserva:
 
 
