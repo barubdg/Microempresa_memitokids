@@ -158,4 +158,5 @@ Este sistema busca transformar la forma en que se organizan los eventos infantil
 ### Requerimientos funcionales y no funcionales
 
 #### 1. Requerimientos funcionales:
+<img align="center" src="img_tablacontenido/requerimientos/RF-PARTE1.jpg" alt="Imagen" />
 
