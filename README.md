@@ -135,7 +135,11 @@ Nuestra visión es convertirnos en la empresa líder en la organización de even
 
 #### 3. Objetivos Estratégicos:
 a.	Implementar un sistema de organización de eventos eficiente para mejorar la coordinación interna y la comunicación con los clientes.
+
 b.	Garantizar la seguridad y privacidad de los datos personales de nuestros clientes y empleados.
+
 c.	Facilitar la generación de reportes precisos para una toma de decisiones informada.
+
 d.	Establecer una base sólida para el crecimiento y la escalabilidad del negocio.
+
 
