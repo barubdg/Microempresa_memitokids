@@ -3,7 +3,7 @@
 # Tabla de Contenido
 ---
 ## Autores
-- [Autores](#autores)
+- [autores](#autores)
 
 ## Aspectos Generales
 - [Descripción de la empresa](#descripción-de-la-empresa)
