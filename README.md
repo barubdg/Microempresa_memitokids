@@ -123,6 +123,8 @@ Para abordar la gestión y control de reportes para la Microempresa de Eventos I
 #### Proceso después del evento:
 <img align="center" src="img_tablacontenido/bpmn/Proceso después del evento.jpg" alt="Imagen" height="500"/>
 
+#### 2. Organigrama:
+<img align="center" src="img_tablacontenido/organigrama.png" alt="Imagen" />
 
 
 
