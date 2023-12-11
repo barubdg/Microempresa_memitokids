@@ -45,13 +45,11 @@ La solución elegida es el desarrollo de un software de escritorio personalizado
 ## [Capítulo 3](capitulo_3/readme.md)
 - Requerimientos funcionales y no funcionales
 - Restricciones
-- Diagrama de clases
 - Prototipos o interfaces
 
 ## [Capítulo 4](capitulo_4/readme.md)
-- Funcionalidades implementadas
 - Estructura de paquetes y Clases utilizadas
-- Código fuente y Herramientas digitales
+- Herramientas digitales
 - Comparativo entre países, Contrato y Fichas formularios
 
 ## [Capítulo 5](capitulo_5/readme.md)
