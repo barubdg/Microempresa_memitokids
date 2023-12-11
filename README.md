@@ -1,6 +1,7 @@
 # Desarrollo de un sistema para la gestión y control de reportes para la Microempresa de Eventos Infantiles “Memito Kids”
 ---
-
+<img align="center" src="img_tablacontenido/Mockup-proyecto.jpg" alt="Mockup-proyecto" width="2000">
+---
 ## Autores del Proyecto
 
 **Baruch Benjamin Dámazo Gálvez / Desarrollador UI/UX y Programador Java:**
