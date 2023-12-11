@@ -23,3 +23,5 @@ a.	Presupuesto limitado para el desarrollo del software.
 b.	Plazo de entrega de 2 meses y medio para la implementación.
 
 #### 4. Prototipo o Interfaces
+
+- [Paleta-de-colores](#capitulo_3/prototipos/PALETA_COLORES.png)
