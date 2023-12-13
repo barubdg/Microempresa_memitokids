@@ -14,7 +14,7 @@
 - Responsable de la experiencia del usuario y la interfaz visual del software.
 
 **Enrique Alexis Coronel Castillo / Especialista en Base de Datos:**
-- Elección y implementación de la base de datos utilizando MySQL Workbench.
+- Elección e implementación de la base de datos utilizando MySQL Workbench.
 - Diseño y optimización de la estructura de la base de datos para el almacenamiento eficiente de la información.
 - Aseguramiento de la integridad y seguridad de los datos en el sistema.
 
