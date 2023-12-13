@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="ReportAsistencia" language="groovy" pageWidth="595" pageHeight="842" columnWidth="535" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="80fb3fcf-98a3-4af5-9aed-d840807792d3">
+	<property name="ireport.zoom" value="1.6105100000000008"/>
+	<property name="ireport.x" value="0"/>
+	<property name="ireport.y" value="0"/>
+	<parameter name="id_evento" class="java.lang.Integer">
+		<defaultValueExpression><![CDATA[]]></defaultValueExpression>
+	</parameter>
+	<queryString>
+		<![CDATA[SELECT
+     evento.`nombre_evento` AS evento_nombre_evento,
+     empleados.`nombre` AS empleados_nombre,
+     empleados.`apellido` AS empleados_apellido,
+     empleados.`dni` AS empleados_dni,
+     equipos_de_organizacion.`nombre_equipo` AS equipos_de_organizacion_nombre_equipo
+FROM
+     `evento` evento INNER JOIN `asistencia` asistencia ON evento.`evento_id` = asistencia.`evento_id`
+     INNER JOIN `empleados` empleados ON asistencia.`empleado_id` = empleados.`empleado_id`
+     INNER JOIN `equipos_de_organizacion` equipos_de_organizacion ON asistencia.`equipo_id` = equipos_de_organizacion.`equipo_id`
+WHERE evento.evento_id=$P!{id_evento}]]>
+	</queryString>
+	<field name="evento_nombre_evento" class="java.lang.String"/>
+	<field name="empleados_nombre" class="java.lang.String"/>
+	<field name="empleados_apellido" class="java.lang.String"/>
+	<field name="empleados_dni" class="java.lang.String"/>
+	<field name="equipos_de_organizacion_nombre_equipo" class="java.lang.String"/>
+	<background>
+		<band/>
+	</background>
+	<title>
+		<band height="72">
+			<frame>
+				<reportElement mode="Opaque" x="-20" y="-20" width="595" height="92" backcolor="#006699" uuid="648a66c3-7473-4e5c-a217-8ff04a760b25"/>
+				<staticText>
+					<reportElement x="20" y="20" width="555" height="43" forecolor="#FFFFFF" uuid="d4757780-58bd-4614-b318-487a761e0b2f"/>
+					<textElement textAlignment="Center" verticalAlignment="Middle">
+						<font size="34" isBold="true"/>
+					</textElement>
+					<text><![CDATA[REPORTE DE ASISTENCIA]]></text>
+				</staticText>
+				<textField>
+					<reportElement x="20" y="63" width="555" height="29" forecolor="#FFFFFF" uuid="ff9b65d1-8a20-472a-a591-7aec1cd1ba30"/>
+					<textElement textAlignment="Center" verticalAlignment="Middle">
+						<font size="18" isBold="true"/>
+					</textElement>
+					<textFieldExpression><![CDATA[$F{evento_nombre_evento}]]></textFieldExpression>
+				</textField>
+			</frame>
+		</band>
+	</title>
+	<pageHeader>
+		<band height="13"/>
+	</pageHeader>
+	<columnHeader>
+		<band height="21">
+			<line>
+				<reportElement x="-20" y="20" width="595" height="1" forecolor="#666666" uuid="e2728b43-27b8-428a-867a-7d3596bc840e"/>
+			</line>
+			<staticText>
+				<reportElement mode="Opaque" x="0" y="0" width="100" height="20" forecolor="#006699" backcolor="#E6E6E6" uuid="1f6ca219-2799-48db-9baf-415b37c3d06e"/>
+				<textElement textAlignment="Center" verticalAlignment="Middle">
+					<font size="10" isBold="true"/>
+				</textElement>
+				<text><![CDATA[Nombre]]></text>
+			</staticText>
+			<staticText>
+				<reportElement mode="Opaque" x="106" y="0" width="122" height="20" forecolor="#006699" backcolor="#E6E6E6" uuid="d51e0d5f-efbf-4f23-9191-74b9a72b02f5"/>
+				<textElement textAlignment="Center" verticalAlignment="Middle">
+					<font size="10" isBold="true"/>
+				</textElement>
+				<text><![CDATA[Apellido]]></text>
+			</staticText>
+			<staticText>
+				<reportElement mode="Opaque" x="235" y="0" width="135" height="20" forecolor="#006699" backcolor="#E6E6E6" uuid="97fcb128-08bd-4fd6-be4b-69d84cfea731"/>
+				<textElement textAlignment="Center" verticalAlignment="Middle">
+					<font size="10" isBold="true"/>
+				</textElement>
+				<text><![CDATA[Dni]]></text>
+			</staticText>
+			<staticText>
+				<reportElement mode="Opaque" x="377" y="0" width="178" height="20" forecolor="#006699" backcolor="#E6E6E6" uuid="a54c3587-409d-4186-bfa4-9ce2c22627c3"/>
+				<textElement textAlignment="Center" verticalAlignment="Middle">
+					<font size="10" isBold="true"/>
+				</textElement>
+				<text><![CDATA[Equipo]]></text>
+			</staticText>
+		</band>
+	</columnHeader>
+	<detail>
+		<band height="24">
+			<line>
+				<reportElement positionType="FixRelativeToBottom" x="0" y="19" width="555" height="1" uuid="fe9d9f91-2c87-4fcd-9968-009668e41b74"/>
+			</line>
+			<textField>
+				<reportElement x="0" y="0" width="100" height="20" uuid="f681421c-d064-4b34-8ae7-6d54f12e408b"/>
+				<textElement textAlignment="Center" verticalAlignment="Middle">
+					<font isBold="false"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{empleados_nombre}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="106" y="0" width="122" height="20" uuid="775ca532-2511-4795-9ce3-d75fa20c3f61"/>
+				<textElement textAlignment="Center" verticalAlignment="Middle">
+					<font isBold="false"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{empleados_apellido}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="235" y="0" width="135" height="20" uuid="29c7aa08-0cb8-4f0f-ba07-91db99664f59"/>
+				<textElement textAlignment="Center" verticalAlignment="Middle">
+					<font isBold="false"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{empleados_dni}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="377" y="0" width="178" height="20" uuid="8b5cad8f-3612-40ae-b225-90b45c52efee"/>
+				<textElement textAlignment="Center" verticalAlignment="Middle">
+					<font isBold="false"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{equipos_de_organizacion_nombre_equipo}]]></textFieldExpression>
+			</textField>
+		</band>
+	</detail>
+	<columnFooter>
+		<band/>
+	</columnFooter>
+	<pageFooter>
+		<band height="17">
+			<textField>
+				<reportElement mode="Opaque" x="0" y="4" width="515" height="13" backcolor="#E6E6E6" uuid="afb6fc40-df6e-4d81-ad10-4d7c2e858fbf"/>
+				<textElement textAlignment="Right"/>
+				<textFieldExpression><![CDATA["Page "+$V{PAGE_NUMBER}+" of"]]></textFieldExpression>
+			</textField>
+			<textField evaluationTime="Report">
+				<reportElement mode="Opaque" x="515" y="4" width="40" height="13" backcolor="#E6E6E6" uuid="fad884d2-cf88-4d30-bfda-e266d876ca40"/>
+				<textFieldExpression><![CDATA[" " + $V{PAGE_NUMBER}]]></textFieldExpression>
+			</textField>
+			<textField pattern="EEEEE dd MMMMM yyyy">
+				<reportElement x="0" y="4" width="100" height="13" uuid="377399c3-ff7b-429a-b93e-fd214a1cfb17"/>
+				<textFieldExpression><![CDATA[new java.util.Date()]]></textFieldExpression>
+			</textField>
+		</band>
+	</pageFooter>
+	<summary>
+		<band/>
+	</summary>
+</jasperReport>
