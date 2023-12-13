@@ -11,7 +11,6 @@
 **Baruch Benjamin Dámazo Gálvez / Desarrollador UI/UX y Programador Java:**
 - Diseño y desarrollo de las interfaces de usuario (UI/UX) del software.
 - Programación en Java desde cero para implementar la lógica del programa.
-- Responsable de la experiencia del usuario y la interfaz visual del software.
 
 **Enrique Alexis Coronel Castillo / Especialista en Base de Datos:**
 - Elección e implementación de la base de datos utilizando MySQL Workbench.
